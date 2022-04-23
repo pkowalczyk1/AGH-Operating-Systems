@@ -1,0 +1,7 @@
+składnik1 = cat /etc/passwd
+składnik2 = grep 7
+składnik3 = wc -l
+
+składnik1 | składnik2 | składnik3
+składnik1 | składnik2
+składnik1 | składnik3

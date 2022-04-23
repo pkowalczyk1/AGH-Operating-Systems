@@ -1,0 +1,4 @@
+Po wykonaniu fork() handler pozostaje zainstalowany w procesie potomnym.
+Maska ustawiona w procesie macierzystym pozostaje aktywna po wykonaniu fork() i exec().
+Sygnał oczekujący w przodku jest widoczny jako oczekujący w procesie po exec() ale nie po fork().
+Ignorowanie sygnału jest dziedziczone zarówno po fork() jak i po exec().

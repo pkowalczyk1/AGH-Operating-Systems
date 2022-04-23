@@ -1,0 +1,95 @@
+***-O option***
+one small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+one medium:
+Real: 0.010000, User: 0.000000, System: 0.000000
+one large:
+Real: 0.070000, User: 0.000000, System: 0.000000
+many small:
+Real: 0.010000, User: 0.000000, System: 0.000000
+many medium:
+Real: 0.010000, User: 0.000000, System: 0.000000
+many large:
+Real: 0.270000, User: 0.000000, System: 0.000000
+a few mixed size:
+Real: 0.250000, User: 0.000000, System: 0.000000
+many mixed size:
+Real: 0.280000, User: 0.000000, System: 0.000000
+save large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+save small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+save medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+mixed operations:
+Real: 0.800000, User: 0.000000, System: 0.000000
+
+***-O1 option****
+one small:
+Real: 0.010000, User: 0.000000, System: 0.000000
+one medium:
+Real: 0.010000, User: 0.000000, System: 0.000000
+one large:
+Real: 0.090000, User: 0.000000, System: 0.000000
+many small:
+Real: 0.010000, User: 0.000000, System: 0.000000
+many medium:
+Real: 0.020000, User: 0.000000, System: 0.000000
+many large:
+Real: 0.290000, User: 0.000000, System: 0.000000
+a few mixed size:
+Real: 0.260000, User: 0.000000, System: 0.000000
+many mixed size:
+Real: 0.300000, User: 0.000000, System: 0.000000
+save large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+save small:
+Real: 0.010000, User: 0.000000, System: 0.000000
+save medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+mixed operations:
+Real: 0.790000, User: 0.000000, System: 0.000000
+
+***-O3 option***
+one small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+one medium:
+Real: 0.010000, User: 0.000000, System: 0.000000
+one large:
+Real: 0.060000, User: 0.000000, System: 0.000000
+many small:
+Real: 0.010000, User: 0.000000, System: 0.000000
+many medium:
+Real: 0.020000, User: 0.000000, System: 0.000000
+many large:
+Real: 0.270000, User: 0.000000, System: 0.000000
+a few mixed size:
+Real: 0.260000, User: 0.000000, System: 0.000000
+many mixed size:
+Real: 0.310000, User: 0.000000, System: 0.000000
+save large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete large:
+Real: 0.000000, User: 0.000000, System: 0.000000
+save small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+save medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete small:
+Real: 0.000000, User: 0.000000, System: 0.000000
+delete medium:
+Real: 0.000000, User: 0.000000, System: 0.000000
+mixed operations:
+Real: 0.770000, User: 0.000000, System: 0.000000

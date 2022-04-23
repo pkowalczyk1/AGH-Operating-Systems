@@ -1,0 +1,4 @@
+System functions:
+Real: 5.370000, User: 2.330000, System: 3.020000
+Library functions:
+Real: 0.140000, User: 0.100000, System: 0.030000

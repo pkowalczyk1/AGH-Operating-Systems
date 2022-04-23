@@ -1,0 +1,18 @@
+
+Interval: 1.000000E-08, Process count: 5
+Real: 0.230000, User: 0.000000, System: 0.000000
+
+Interval: 1.000000E-08, Process count: 10
+Real: 0.180000, User: 0.000000, System: 0.000000
+
+Interval: 1.000000E-08, Process count: 20
+Real: 0.180000, User: 0.000000, System: 0.000000
+
+Interval: 1.000000E-09, Process count: 5
+Real: 1.980000, User: 0.000000, System: 0.000000
+
+Interval: 1.000000E-09, Process count: 10
+Real: 1.710000, User: 0.000000, System: 0.000000
+
+Interval: 1.000000E-09, Process count: 60
+Real: 1.660000, User: 0.000000, System: 0.000000

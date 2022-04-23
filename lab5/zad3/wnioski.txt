@@ -1,0 +1,7 @@
+Dla ilości jednorazowo czytanych znaków większej od PIPE_BUF program jest niestabilny niezależnie od tego,
+ile jest producentów i konsumentów.
+Jeśli jednorazowo czytamy i zapisujemy ilość znaków mniejszą od PIPE_BUF to:
+    - dla jednego producenta i wielu konsumentów nie ma z tym problemu, testy zgodności przechodzą
+    - dla wielu producentów i jednego konsumenta również nie ma problemu
+    - dla wielu producentów i wielu producentów nie ma znaczenia wiekość odczytu i zapisu, programy się nie kończą
+    lub testy zgodności plików nie przechodzą
