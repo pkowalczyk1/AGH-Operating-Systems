@@ -1,0 +1,4 @@
+- Przy 2 kucharzach i 4 kierowcach żadne pizze nie są gubione ani powielane. Synchronizacja jest zachowana.
+
+- Przy 6 kucharzach i 6 kierowcach również żadne pizze nie są gubione ani powielane. Jedynie czasem niezsynchronizowane
+są komunikaty wypisywane na konsolę,
