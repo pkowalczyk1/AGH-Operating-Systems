@@ -1,0 +1,264 @@
+Image 600x600
+Numbers method
+1 thread:
+Total time: 3496.500000
+Thread time 0: 3201.250000
+2 threads:
+Total time: 4170.750000
+Thread time 0: 1174.750000
+Thread time 1: 4014.250000
+4 threads:
+Total time: 3343.500000
+Thread time 0: 1054.750000
+Thread time 1: 1029.000000
+Thread time 2: 1111.250000
+Thread time 3: 3205.250000
+8 threads:
+Total time: 4258.750000
+Thread time 0: 2043.250000
+Thread time 1: 2027.000000
+Thread time 2: 2004.750000
+Thread time 3: 2053.250000
+Thread time 4: 2060.500000
+Thread time 5: 2041.750000
+Thread time 6: 2015.500000
+Thread time 7: 3963.750000
+16 threads:
+Total time: 6592.000000
+Thread time 0: 2105.750000
+Thread time 1: 2043.250000
+Thread time 2: 2011.250000
+Thread time 3: 2050.000000
+Thread time 4: 2054.250000
+Thread time 5: 2265.500000
+Thread time 6: 2052.000000
+Thread time 7: 2067.250000
+Thread time 8: 2134.250000
+Thread time 9: 2326.000000
+Thread time 10: 2073.500000
+Thread time 11: 2172.250000
+Thread time 12: 2068.750000
+Thread time 13: 2225.000000
+Thread time 14: 2159.000000
+Thread time 15: 4081.000000
+Image 600x600
+Block method
+1 thread:
+Total time: 1580.750000
+Thread time 0: 1308.750000
+2 threads:
+Total time: 995.000000
+Thread time 0: 696.250000
+Thread time 1: 681.250000
+4 threads:
+Total time: 768.250000
+Thread time 0: 375.250000
+Thread time 1: 352.250000
+Thread time 2: 340.250000
+Thread time 3: 351.000000
+8 threads:
+Total time: 909.250000
+Thread time 0: 339.250000
+Thread time 1: 317.000000
+Thread time 2: 299.250000
+Thread time 3: 337.500000
+Thread time 4: 336.000000
+Thread time 5: 306.250000
+Thread time 6: 293.750000
+Thread time 7: 296.250000
+16 threads:
+Total time: 782.250000
+Thread time 0: 173.250000
+Thread time 1: 146.000000
+Thread time 2: 129.500000
+Thread time 3: 167.500000
+Thread time 4: 173.000000
+Thread time 5: 174.750000
+Thread time 6: 164.500000
+Thread time 7: 167.250000
+Thread time 8: 171.250000
+Thread time 9: 178.500000
+Thread time 10: 182.000000
+Thread time 11: 235.250000
+Thread time 12: 252.500000
+Thread time 13: 194.750000
+Thread time 14: 176.500000
+Thread time 15: 148.750000
+------------------------------------
+Image 640x480
+Numbers method
+1 threads:
+Total time: 3006.250000
+Thread time 0: 2737.500000
+2 threads:
+Total time: 2930.750000
+Thread time 0: 878.500000
+Thread time 1: 2775.500000
+4 threads:
+Total time: 2872.750000
+Thread time 0: 879.750000
+Thread time 1: 865.500000
+Thread time 2: 865.250000
+Thread time 3: 2741.500000
+8 threads:
+Total time: 3703.500000
+Thread time 0: 1761.000000
+Thread time 1: 1705.750000
+Thread time 2: 1687.500000
+Thread time 3: 1676.500000
+Thread time 4: 1742.750000
+Thread time 5: 1724.000000
+Thread time 6: 1703.250000
+Thread time 7: 3416.250000
+16 threads:
+Total time: 5638.500000
+Thread time 0: 1737.750000
+Thread time 1: 1719.500000
+Thread time 2: 1828.500000
+Thread time 3: 1755.000000
+Thread time 4: 1754.250000
+Thread time 5: 1772.250000
+Thread time 6: 1759.250000
+Thread time 7: 1766.500000
+Thread time 8: 1827.750000
+Thread time 9: 1779.500000
+Thread time 10: 1754.750000
+Thread time 11: 1864.250000
+Thread time 12: 1861.750000
+Thread time 13: 1702.000000
+Thread time 14: 1800.750000
+Thread time 15: 3325.500000
+Image 640x480
+Block method
+1 thread:
+Total time: 1353.000000
+Thread time 0: 1093.000000
+2 threads:
+Total time: 890.750000
+Thread time 0: 590.500000
+Thread time 1: 564.750000
+4 threads:
+Total time: 702.000000
+Thread time 0: 309.500000
+Thread time 1: 295.250000
+Thread time 2: 291.000000
+Thread time 3: 296.000000
+8 threads:
+Total time: 822.500000
+Thread time 0: 263.500000
+Thread time 1: 250.000000
+Thread time 2: 240.000000
+Thread time 3: 287.250000
+Thread time 4: 284.750000
+Thread time 5: 247.000000
+Thread time 6: 233.000000
+Thread time 7: 243.750000
+16 threads:
+Total time: 743.750000
+Thread time 0: 105.000000
+Thread time 1: 128.250000
+Thread time 2: 101.500000
+Thread time 3: 142.250000
+Thread time 4: 144.000000
+Thread time 5: 150.500000
+Thread time 6: 99.000000
+Thread time 7: 121.250000
+Thread time 8: 241.000000
+Thread time 9: 243.750000
+Thread time 10: 220.750000
+Thread time 11: 159.750000
+Thread time 12: 158.000000
+Thread time 13: 162.750000
+Thread time 14: 169.750000
+Thread time 15: 134.500000
+------------------------------------
+Image 320x428
+Numbers method
+1 thread:
+Total time: 1478.250000
+Thread time 0: 1217.750000
+2 threads:
+Total time: 1379.000000
+Thread time 0: 387.250000
+Thread time 1: 1233.250000
+4 threads:
+Total time: 1378.000000
+Thread time 0: 401.250000
+Thread time 1: 388.250000
+Thread time 2: 387.250000
+Thread time 3: 1247.250000
+8 threads:
+Total time: 1925.500000
+Thread time 0: 724.250000
+Thread time 1: 717.250000
+Thread time 2: 777.500000
+Thread time 3: 620.500000
+Thread time 4: 739.500000
+Thread time 5: 802.250000
+Thread time 6: 708.750000
+Thread time 7: 1646.250000
+16 threads:
+Total time: 2594.750000
+Thread time 0: 746.250000
+Thread time 1: 728.500000
+Thread time 2: 717.250000
+Thread time 3: 777.500000
+Thread time 4: 782.000000
+Thread time 5: 788.750000
+Thread time 6: 804.000000
+Thread time 7: 707.250000
+Thread time 8: 716.000000
+Thread time 9: 802.250000
+Thread time 10: 892.250000
+Thread time 11: 877.500000
+Thread time 12: 874.500000
+Thread time 13: 839.000000
+Thread time 14: 832.000000
+Thread time 15: 1578.000000
+Image 320x428
+Block method
+1 threads:
+Total time: 789.500000
+Thread time 0: 497.500000
+2 threads:
+Total time: 569.000000
+Thread time 0: 266.500000
+Thread time 1: 255.000000
+4 threads:
+Total time: 528.000000
+Thread time 0: 237.750000
+Thread time 1: 157.250000
+Thread time 2: 191.500000
+Thread time 3: 232.500000
+8 threads:
+Total time: 670.750000
+Thread time 0: 124.500000
+Thread time 1: 95.000000
+Thread time 2: 78.000000
+Thread time 3: 117.000000
+Thread time 4: 103.500000
+Thread time 5: 125.750000
+Thread time 6: 135.750000
+Thread time 7: 129.250000
+16 threads:
+Total time: 578.750000
+Thread time 0: 48.500000
+Thread time 1: 45.000000
+Thread time 2: 43.250000
+Thread time 3: 64.000000
+Thread time 4: 64.500000
+Thread time 5: 41.000000
+Thread time 6: 40.750000
+Thread time 7: 38.500000
+Thread time 8: 56.750000
+Thread time 9: 64.250000
+Thread time 10: 69.750000
+Thread time 11: 57.500000
+Thread time 12: 73.250000
+Thread time 13: 68.750000
+Thread time 14: 44.500000
+Thread time 15: 53.500000
+
+Po analizie czasów można dojść do wniosku, że metoda numbers jest dużo wolniejsza od metody block.
+Przy metodzie numbers większa ilość wątków przekłada się na zwiekszony czas działania programu, a nie
+na polepszenie szybkości. Przy metodzie block ilość wątków nie ma wielkiego wpływu na czasy.
